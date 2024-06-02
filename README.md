@@ -1,5 +1,5 @@
 # visual-studio-code-profile
- Visual studio code configuration includes extensions that I use in different frameworks
+ Visual studio code configuration includes extensions that i use in different frameworks
 
 Usage steps:
 1. Click "Manage"
